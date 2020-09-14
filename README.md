@@ -9,7 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Srinivas Channakeshava's github stats](https://github-readme-stats.vercel.app/api?username=srinivaschannakeshava&count_private=true&show_icons=true)](https://github.com/srinivaschannakeshava/github-readme-stats)
+[![Srinivas Channakeshava's github stats](https://github-readme-stats.vercel.app/api?username=srinivaschannakeshava&count_private=true&show_icons=true)]()
 
-[![Srinivas Channakeshava's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaschannakeshava&layout=compact)](https://github.com/srinivaschannakeshava/github-readme-stats)
+[![Srinivas Channakeshava's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaschannakeshava&layout=compact)]()
 
+
+<p align="center">
+<a href="https://twitter.com/srinivasgowda_c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srinivaschannakeshava" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/srinivas-channakeshava-517a3161" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srinivaschannakeshava" height="30" width="30" /></a>
+<a href="https://www.instagram.com/srini_machinist/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="srinivaschannakeshava" height="30" width="30" /></a>
+</p>
