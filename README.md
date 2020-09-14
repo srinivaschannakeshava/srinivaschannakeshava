@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Srinivas Channakeshava's github stats](https://github-readme-stats.vercel.app/api?username=srinivaschannakeshava)](https://github.com/srinivaschannakeshava/github-readme-stats)
+[![Srinivas Channakeshava's github stats](https://github-readme-stats.vercel.app/api?username=srinivaschannakeshava&count_private=true&show_icons=true)](https://github.com/srinivaschannakeshava/github-readme-stats)
 
