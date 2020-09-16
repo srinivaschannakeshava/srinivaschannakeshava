@@ -11,7 +11,7 @@
 
 [![Srinivas Channakeshava's github stats](https://github-readme-stats.vercel.app/api?username=srinivaschannakeshava&count_private=true&show_icons=true)]()
 
-[![Srinivas Channakeshava's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaschannakeshava&layout=compact)]()
+[![Srinivas Channakeshava's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaschannakeshava&langs_count=8&layout=compact)]()
 
 
 <p align="center">
