@@ -10,11 +10,11 @@
 <a href="https://github.com/srinivaschannakeshava">
   <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<br>
+</br>
 
 
 <p>Welcome to my world! </br> 
-I'm **Srinivas Channakeshava**, an Electronics Engineer by Birth and Fullstack developer by profession based out in <img src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-256.png" width="16"/> **Bengaluru, India**. </p>
+I'm <b>Srinivas Channakeshava</b>, an Electronics Engineer by Birth and Fullstack developer by profession based out in <img src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-256.png" width="16"/> <b>Bengaluru, India</b>. </p>
 
 - 🔭 I’m currently working on Timeseries Visualization .
 - 🌱 I’m currently learning Apache Solr, InfluxDB, K8s, Helm Frameworks.
