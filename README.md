@@ -65,6 +65,7 @@ Cloud Platforms
 
 - Checkout My 3D printings - [Thinginverse](https://www.thingiverse.com/srini91/designs)
   
+### Stats
 
 [![Srinivas Channakeshava's github stats](https://github-readme-stats.vercel.app/api?username=srinivaschannakeshava&count_private=true&show_icons=true)]()
 
