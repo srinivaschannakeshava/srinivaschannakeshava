@@ -19,7 +19,7 @@
 I'm <b>Srinivas Channakeshava</b>, an Electronics Engineer by Birth and Fullstack developer by profession based out in <img src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-256.png" width="16"/> <b>Bengaluru, India</b>. </p>
 
 - 🔭 I’m currently working on Timeseries Visualization .
-- 🌱 I’m currently learning Apache Solr, InfluxDB, K8s, Helm Frameworks.
+- 🌱 I’m currently exploring Apache Solr, InfluxDB, K8s, Helm Frameworks.
 - 💬 Ask me about 3D printing, Electronics and Application Development.
 - 📫 How to reach me: [@srinivas](https://linkedin.com/in/srinivas-channakeshava-517a3161)
 
