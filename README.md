@@ -4,7 +4,7 @@
 <a href="https://twitter.com/srinivasgowda_c">
   <img align="left" alt="Srinivas Channakeshava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/srinivas-channakeshava-517a3161">
+<a href="https://linkedin.com/in/srinivas-channakeshava">
   <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/srinivaschannakeshava">
