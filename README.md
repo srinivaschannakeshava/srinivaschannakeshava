@@ -1,9 +1,7 @@
 <h1>Hi there  !! <img src="https://emojis.slackmojis.com/emojis/images/1471045852/843/highfive.gif?1471045852" width="30"/> </h1>
 
 
-<a href="https://twitter.com/srinivasgowda_c">
-  <img align="left" alt="Srinivas Channakeshava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://linkedin.com/in/srinivas-channakeshava">
   <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
