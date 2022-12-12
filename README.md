@@ -14,7 +14,7 @@
 
 
 <p>Welcome to my world! </br> 
-I'm <b>Srinivas Channakeshava</b>, an Electronics Engineer by Birth and Fullstack developer by profession based out in <img src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-256.png" width="16"/> <b>Bengaluru, India</b>. </p>
+I'm <b>Srinivas Channakeshava</b>, an Engineer based out in <img src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-256.png" width="16"/> <b>Bengaluru, India</b>. </p>
 
 - 🔭 I’m currently working on DataFlow, Big query , Apache Flink .
 - 🌱 I’m currently exploring Apache Solr, InfluxDB Database.
