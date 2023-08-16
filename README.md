@@ -3,10 +3,10 @@
 
 
 <a href="https://linkedin.com/in/srinivas-channakeshava">
-  <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://github.com/srinivaschannakeshava">
-  <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Srinivas Channakeshava's LinkedIN" width="22px" src="https://cdn.simpleicons.org/github" />
 </a>
 
 </br>
